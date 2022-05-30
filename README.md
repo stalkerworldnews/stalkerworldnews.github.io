@@ -1,4 +1,4 @@
-# nekogram-files
-Websites for Nekogram.
+# SWN STORE
+Websites for app store, from the company Stalker World News
 
-Check out the source code of Nekogram at [GitLab](https://gitlab.com/Nekogram/Nekogram).
+[Under development!]
